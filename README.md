@@ -1,5 +1,5 @@
 # window_beta17
-A Garry's Mod map set in an apartment amidst the City 17 of the Half-Life 2 Beta
+## A Garry's Mod map set in an apartment amidst the City 17 of the Half-Life 2 Beta
 
 These are the VMFs (editable map files via hammer/hammer++) for my map I made for the Hammer Editor Discord Group (HEDG) "What's Outside the Window" contest. I wasn't able to finish it properly in time, but afterwards I tidied it up and finalized it.
 
